@@ -1,0 +1,15 @@
+Git Version Control
+https://git-scm.com/book/en/v2/Getting-Started-About-Version-ControlSublime
+https://www.sublimetext.com/docs/
+
+FONTS
+https://fonts.google.com/
+
+BG
+https://www.svgbackgrounds.com/
+
+Bootstrap
+https://getbootstrap.com/
+
+Github
+https://github.com/
